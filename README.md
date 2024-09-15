@@ -2,6 +2,8 @@
 
 ## How install?
 
+Only works above v3.24.30+
+
 Download this repo and extract the files to `/data/adb/mmrl/modconf/repo-generator`.
 
 ## Where to find the generated repo?
